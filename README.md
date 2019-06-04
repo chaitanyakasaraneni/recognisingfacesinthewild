@@ -27,10 +27,10 @@ sample_submission.csv - a sample submission file in the correct format. The colu
 The clear step-by-step instructions are given in the python jupyter-notebook. Please follow those instructions to execute the program smoothly.
 
 ### References & Citations
-Joseph P Robinson, Ming Shao, Hongfu Liu, Yue Wu, Timothy Gillis, and Yun Fu. "Visual Kinship Recognition of Families In the Wild" IEEE TPAMI Special Edition: Computational Face (2018). [paper](https://web.northeastern.edu/smilelab/fiw/papers/tpami-final.pdf)
+ - Joseph P Robinson, Ming Shao, Hongfu Liu, Yue Wu, Timothy Gillis, and Yun Fu. "Visual Kinship Recognition of Families In the Wild" IEEE TPAMI Special Edition: Computational Face (2018). [paper](https://web.northeastern.edu/smilelab/fiw/papers/tpami-final.pdf)
 
-Joseph P Robinson, Ming Shao, Handong Zhao, Yue Wu, Timothy Gillis, Yun Fu. "Recognizing Families In the Wild (RFIW): Data Challenge Workshop in conjunction with ACM MM 2017," ACM Multimedia Conference: Workshop on RFIW (2017). [paper](https://web.northeastern.edu/smilelab/fiw/papers/RFIW17.pdf)
+ - Joseph P Robinson, Ming Shao, Handong Zhao, Yue Wu, Timothy Gillis, Yun Fu. "Recognizing Families In the Wild (RFIW): Data Challenge Workshop in conjunction with ACM MM 2017," ACM Multimedia Conference: Workshop on RFIW (2017). [paper](https://web.northeastern.edu/smilelab/fiw/papers/RFIW17.pdf)
 
-Shuyang Wang, Joseph P Robinson, and Yun Fu. “Kinship Verification on Families in the Wild with Marginalized Denoising Metric Learning,” in IEEE Automatic Face and Gesture Recognition (2017). [paper](https://web.northeastern.edu/smilelab/fiw/papers/FG2017_version_final.pdf)
+ - Shuyang Wang, Joseph P Robinson, and Yun Fu. “Kinship Verification on Families in the Wild with Marginalized Denoising Metric Learning,” in IEEE Automatic Face and Gesture Recognition (2017). [paper](https://web.northeastern.edu/smilelab/fiw/papers/FG2017_version_final.pdf)
 
-Joseph P Robinson, Ming Shao, Yue Wu, and Yun Fu. “Families In the Wild (FIW): large-scale kinship image database and benchmarks." in ACM on Multimedia Conference (2016). [paper](https://web.northeastern.edu/smilelab/fiw/papers/acm-mm-short-final.pdf)
+ - Joseph P Robinson, Ming Shao, Yue Wu, and Yun Fu. “Families In the Wild (FIW): large-scale kinship image database and benchmarks." in ACM on Multimedia Conference (2016). [paper](https://web.northeastern.edu/smilelab/fiw/papers/acm-mm-short-final.pdf)
