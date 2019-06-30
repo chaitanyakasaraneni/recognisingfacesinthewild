@@ -1,5 +1,5 @@
 # Recognizing Faces in the wild
-
+[Click here to download the data](https://www.kaggle.com/c/recognizing-faces-in-the-wild/data)
 This is a Kaggle competition named [Northeastern SMILE Lab - Recognizing Faces in the Wild](https://www.kaggle.com/c/recognizing-faces-in-the-wild)
 
 ### Description
@@ -13,6 +13,7 @@ An automatic kinship classifier has been in the works at Northeastern since 2010
 2. Many hidden factors affect familial facial relationships, so a more discriminant model is needed than the computer vision algorithms used most often for higher-level categorizations (e.g. facial recognition or object classification).
 
 ### Data
+Download the data from [here](https://www.kaggle.com/c/recognizing-faces-in-the-wild/data)
 The data is provided by Families In the Wild (FIW), the largest and most comprehensive image database for automatic kinship recognition.
 
 FIW's dataset is obtained from publicly available images from celebrities. For more information about their labeling process, please visit their database page.
